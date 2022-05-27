@@ -1,14 +1,15 @@
 # recipe-app-api
 
-Technologies utilisées : 
+Technologies used : 
 
-* Django
-* Django-REST-Framework
-* Docker
-* Python
-* Travis-Cl
-* Postgres
+Python
+Django / Django-REST-Framework
+Docker / Docker-Compose
+Test Driven Development
 
 
 
-* Test Driven Development
+To start project, run:
+
+docker-compose up
+The API will then be available at http://127.0.0.1:8000.
