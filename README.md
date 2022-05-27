@@ -1,7 +1,13 @@
 Technologies used :
 
-Python Django / Django-REST-Framework Docker / Docker-Compose Test Driven Development
+* Python 3.9
+* Django 4
+* Django-REST-Framework 3.13
+* Docker & Docker-Compose 
+
+Using Test Driven Development
+
 
 To start project, run:
 
-docker-compose up The API will then be available at http://127.0.0.1:8000.
+docker-compose up The API will then be available at http://127.0.0.1:8000
